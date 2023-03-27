@@ -7,5 +7,5 @@ optimized for Adguard Home
 <h1>Licenses</h1>
 
 Contrat Creative Commons</br>
-This creation is available under un Creative Commons Contract.
+This creation is available under un Creative Commons Contract.</br>
 https://creativecommons.org/licenses/by-sa/4.0/
