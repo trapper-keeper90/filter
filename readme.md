@@ -4,7 +4,7 @@ optimized for Adguard Home
 
 
 
-Licenses
+<h1>Licenses</h1>
 
 Contrat Creative Commons
 
